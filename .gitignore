@@ -6,7 +6,7 @@ app/assets/images/custom/*
 # Configuration files
 config/app_config.yml
 config/app.yml
-config/application.yml
+
 config/heroku.yml
 config/script_server*.yml
 config/fb_config.yml
@@ -17,7 +17,7 @@ config/deploy_config.yml
 .bundle
 vendor/bundle/*
 vendor/cache/*
-config/database.yml
+
 .rvmrc_custom
 .rvmrc.local
 
